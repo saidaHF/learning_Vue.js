@@ -1,4 +1,4 @@
-# learning_Vue.js
+# Learning JavaScript and Vue.js 🤓
 Learning vue.js
 
 JavaScript and vue.js course monitoring:
